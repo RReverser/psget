@@ -975,9 +975,9 @@
             <uri>http://rreverser.com</uri>
             <email>me@rreverser.com</email>
         </author>
-        <content type="application/zip" src="https://github.com/RReverser/wifi-password/archive/master.zip"/>
+        <content type="application/zip" src="https://github.com/RReverser/WiFi-Password/archive/master.zip"/>
         <psget:properties>
-            <psget:ProjectUrl>https://github.com/RReverser/wifi-password</psget:ProjectUrl>
+            <psget:ProjectUrl>https://github.com/RReverser/WiFi-Password</psget:ProjectUrl>
         </psget:properties>
   </entry>
 </feed>
